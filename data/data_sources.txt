@@ -1,0 +1,2 @@
+Chocolate Sales Dataset – Kaggle (product-level sales transaction data)
+Amazon Sales Dataset – Kaggle (transactional sales data)
